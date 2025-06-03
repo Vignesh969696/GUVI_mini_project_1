@@ -18,7 +18,7 @@ Features:
 
 Project Structure:
 - data_generation.py: Generates and inserts synthetic data into MySQL database using OOP.
-- insights.py: Contains the `Getinsights` class with methods that run SQL queries to get insights.
+- insights.py: Contains the Getinsights class with methods that run SQL queries to get insights.
 - app.py: Streamlit app that connects to the database and display results.
 
 Tool Used:
