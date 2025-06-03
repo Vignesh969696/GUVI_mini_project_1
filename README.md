@@ -20,3 +20,8 @@ Project Structure
 - data_generation.py: Generates and inserts synthetic data into MySQL database using OOP.
 - insights.py: Contains the `Getinsights` class with methods that run SQL queries to get insights.
 - app.py: Streamlit app that connects to the database and display results.
+
+Usage
+- Open the Streamlit app in browser  
+- Use filters on the sidebar to customize the data insights  
+- View summary tables student performance and placement readiness
